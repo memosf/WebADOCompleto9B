@@ -148,3 +148,15 @@ D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebP
 D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
 D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
 D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\MySql.Data.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\Google.Protobuf.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\Zstandard.Net.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\K4os.Compression.LZ4.Streams.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\BouncyCastle.Crypto.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\Ubiety.Dns.Core.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\System.Memory.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\System.Buffers.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\K4os.Compression.LZ4.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\K4os.Hash.xxHash.dll
+D:\F\Continuacion\proyClonado\WebADOCompleto9B\WebPruebaAccesoSQL\bin\MySql.Data.xml
