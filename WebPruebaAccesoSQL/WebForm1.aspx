@@ -82,7 +82,7 @@
         Precio:
         <asp:TextBox ID="txtprecio" runat="server"></asp:TextBox>
         <br />
-        <asp:Button ID="Button8" runat="server" OnClick="Button7_Click" Text="Insertar Producto con parámetros usando método genérico más SEGURO" Width="769px" />
+        <asp:Button ID="Button8" runat="server" OnClick="Button7_Click" Text="Insertar Producto con parámetros usando método genérico más SEGURO" Width="769px" Height="26px" />
         <br />
         <br />
         <asp:Button ID="Button9" runat="server" Text="Consulta de  Productos" OnClick="Button9_Click" />
